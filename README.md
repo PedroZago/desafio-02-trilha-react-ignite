@@ -1,5 +1,5 @@
 <h1 align="center">
-     Desafio 01 - Conceitos do React
+     Desafio 02 - Componentizando a aplicação
 </h1>
 
 ## 💻 Sobre o projeto
